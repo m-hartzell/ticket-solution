@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "./client"
+    },
+    {
+      "path": "./server"
+    }
+  ],
+  "settings": {
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.enabled": true
+  }
+}
